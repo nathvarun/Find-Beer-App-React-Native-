@@ -1,4 +1,4 @@
-# Find Beer React Native Applicatio
+# Find Beer React Native Application
 
 Project files for React Native app built with Expo and Firebase.
 
